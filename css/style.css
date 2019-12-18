@@ -1,0 +1,13 @@
+@import url(href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 18px;
+}

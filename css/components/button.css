@@ -1,0 +1,24 @@
+.btn_grey {
+    background-color: #9a0120;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    width: 5px;
+    margin: auto auto;
+}
+
+.btn_grey:hover {
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.btn_grey: {
+	margin-top: 40px;	
+}
+
+.btn_grey a: {
+	text-decoration: none;
+}
+

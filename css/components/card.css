@@ -1,0 +1,44 @@
+
+.card {
+background: white;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 20px;
+}
+.card img {
+  width: 100px;
+}
+.card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  text-align: center;
+  color: #9a0120;
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+}
+.card{
+  flex-basis: 50px;
+	flex-grow: 1;
+	margin: 10px;
+}
+
+.card p {
+  flex-grow: 1;
+  padding-left: 20px;
+  text-align: center;
+}
+
+#last_card: {
+
+	margin-bottom: 80px
+}
